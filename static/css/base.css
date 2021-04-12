@@ -76,6 +76,7 @@ body {
 	z-index: -1;
 }
 
+
 a.category-badge > span.badge:hover {
     background: #212529 !important;
     color: #fff !important;
@@ -90,7 +91,7 @@ a.category-badge > span.badge:hover {
 }
 
 .btt-link,
-.update-link, 
+.update-link,
 .remove-item {
     cursor: pointer;
 }
